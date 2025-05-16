@@ -73,7 +73,7 @@ closeDatabaseConnection($conn);
  <?php endforeach; ?>
  </div>
  <?php endif; ?>
- 
+ test
  <form method="post">
  <div class="form-group">
  <label for="numero">Numéro de Chambre:</label>
